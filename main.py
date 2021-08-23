@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup as bs
-from IPython.display import Image
 from requests import get
 
 def take_img(link):
